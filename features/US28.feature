@@ -8,7 +8,7 @@ When ingresa al Landing Page
 
 And ingresa a la sección <Acerca De>
 
-Then se mostrará la página Acerca De, 
+Then se mostrará la <pagina> Acerca De, 
 
 en la que se detalla la <problematica> que resolverá la aplicación.
 
@@ -17,5 +17,5 @@ Examples: INPUT
     | Raul Granados  |
 
 Examples: OUTPUT
-    | página            | problematica |
+    | pagina            | problematica |
     | Acerca De         | En el sector..., Estos desafíos son..., Las preocupaciones...  |
