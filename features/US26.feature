@@ -1,17 +1,18 @@
-Feature: Navbar y Footer
-    Como potencial usuario
-    Quiero navegar con facilidad para movilizarme a través de la página y conocer sobre la aplicación
-    Para poder obtener la información que necesito
+Feature: US30 Sección "Características"
 
-Scenario: Visualización de Navbar y Footer
-    Given el <usuario> desea conocer sobre la aplicación
-    When ingresa al Landing Page
-    Then se mostrará el Navbar y Footer que permitirá al usuario navegar con facilidad
+Scenario: Visualización de página Caracterícticas
+
+Given el <usuario> desea conocer sobre las características de la aplicación
+When ingresa al Landing Page
+And ingresa a la sección características
+Then se mostrará la página Características en la que detalla información sobre las funcionalidades principales que ofrece la aplicación.
 
 Examples: INPUT
-    | usuario            |
-    | Gianfranco Delgado |
+
+    | usuario |
+    | Khiu Mileth  |
 
 Examples: OUTPUT
-    | diseño     | contenido                          |
-    | agradable  | Navbar y Footer visibles           |
+
+    | página            | informacion |
+    | Caracterícticas   | Nuestros Servicios... |

@@ -1,19 +1,23 @@
-Feature: Página de inicio
-    Como potencial usuario
-    Quiero acceder a una página de inicio para conocer la idea principal de la aplicación y ver un diseño agradable
-    Para poder entender rápidamente de qué se trata la aplicación
+Feature: US31 Sección Contacto
 
-Scenario: Visualización de página de inicio
+Scenario: Visualización de página Contacto
 
-    Given el usuario desea conocer sobre la aplicación
-    When ingresa al Landing Page
-    Then se mostrará la página inicial sencilla que da a entender la idea principal
+Given el <usuario> desea contactar con el área de soporte de la empresa
 
-Examples:
+When ingresa al Landing Page
+
+And ingresa a la sección <Contacto>
+
+Then se mostrará la <pagina> Contacto,
+en la que se muestra los <medios de contacto>
+que puede usar el usuario para hacer <consultas>
+
+Examples: INPUT
+
     | usuario            |
-    | Usuario nuevo      |
-    | Usuario recurrente |
+    | Gianfranco Delgado |
 
 Examples: OUTPUT
-    | diseño     | contenido                                             |
-    | agradable  | Presentación clara de la idea principal de la app     |
+
+    | página      | medios de contacto | consultas        |
+    | Contacto    | formulario         | quería saber...  |
