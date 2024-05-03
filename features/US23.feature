@@ -1,4 +1,4 @@
-Feature: Página de inicio
+Feature: US23 Página de inicio
     Como potencial usuario
     Quiero acceder a una página de inicio para conocer la idea principal de la aplicación y ver un diseño agradable
     Para poder entender rápidamente de qué se trata la aplicación
