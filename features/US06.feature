@@ -10,5 +10,5 @@ Scenario: Ver notificaciones de cita programadas por criadores
     Then el sistema le mostrará un <mensaje> que describe brevemente la solicitud.
 
 Examples:
-| asesor | mensaje |
-| Luisa  | Cita: Recuerda que tienes una cita programada con Mario el 04-05-2024 11:00:00 AM |
+| asesor | Tipo de Notificación |   Mensaje                                                    |                Fecha               |
+| Luisa  | Cita                 | Tienes un asesoramiento programado a ofrecer para Luis Lopez |    6 de mayo de 2024, 14:00:00 h   |
