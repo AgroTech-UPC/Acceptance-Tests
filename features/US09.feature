@@ -1,4 +1,4 @@
-Feature: US09 Gestión de una publicación
+Feature: US09 Gestión de publicaciones de asesores
     Como asesor
     quiero hacer publicaciones
     para tener un mayor alcance hacia los criadores dentro de la aplicación

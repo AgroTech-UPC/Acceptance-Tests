@@ -1,4 +1,4 @@
-Feature: US20 Separación de fechas disponibles para asesoría
+Feature: US14 Separación de fechas disponibles para asesoría
     Como asesor
     quiero poder seleccionar y separar las fechas y horas en las que estoy disponible 
     para ofrecer asesorías para que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente
