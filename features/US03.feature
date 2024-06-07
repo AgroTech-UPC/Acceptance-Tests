@@ -1,4 +1,4 @@
-Feature: US03 Visualización de horarios
+Feature: US03 Visualización de horarios de asesores
     Como criador de cuyes 
     quiero ver los horarios disponibles de los asesores 
     para seleccionar un horario que se ajuste a mi agenda.

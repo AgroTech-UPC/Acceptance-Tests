@@ -1,4 +1,4 @@
-Feature: US04 Programación de citas
+Feature: US04 Programación de citas con asesores
     Como criador de cuyes 
     quiero programar una cita con un asesor 
     para recibir orientación personalizada sobre la crianza de cuyes

@@ -1,4 +1,4 @@
-Feature: US25 Visualización de la sección “Sobre Nosotros
+Feature: US25 Visualización de sección Sobre Nosotros
     Como potencial usuario
     quiero acceder a una página sobre la startup
     para conocer el propósito de la empresa detrás de la aplicación.	

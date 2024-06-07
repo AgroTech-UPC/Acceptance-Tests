@@ -1,4 +1,4 @@
-Feature: US22 Navbar y Footer
+Feature: US22 Visualización de Navbar y Footer
     Como potencial usuario
     Quiero navegar con facilidad para movilizarme a través de la página y conocer sobre la aplicación
     Para poder obtener la información que necesito

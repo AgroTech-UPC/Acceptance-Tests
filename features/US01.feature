@@ -1,4 +1,4 @@
-Feature: US01 Catalogo de Asesores
+Feature: US01 Visualización del catálogo de asesores
     Como criador de cuyes 
     quiero explorar un catálogo de asesores 
     para conocer quiénes me pueden apoyar con asesorías

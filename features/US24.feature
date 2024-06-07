@@ -1,4 +1,4 @@
-Feature: US24 Visualización de la sección Acerca De
+Feature: US24 Visualización de sección Acerca De
     Como potencial usuario
     quiero acceder a una página sobre el problema que resuelve
     para conocer el propósito de la aplicación.	

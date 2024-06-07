@@ -1,4 +1,4 @@
-Feature: US12 Registro de animal
+Feature: US12 Registro de información de animales
     Como criador de cuyes 
     quiero contar con un sistema de registro de animales 
     para almacenar información básica sobre cada animal, incluyendo su número de identificación, especie, raza, género y fecha de nacimiento.

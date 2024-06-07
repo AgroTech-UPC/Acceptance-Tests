@@ -1,4 +1,4 @@
-Feature: US08 Notificación de citas al asesor
+Feature: US08 Notificación de citas al criador
     Como criador
     quiero recibir notificaciones de citas programadas con los asesores
     para mantenerme al tanto de de la fecha de mi cita

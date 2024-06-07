@@ -1,4 +1,4 @@
-Feature: US27 Visualización de la sección Contacto
+Feature: US27 Visualización de sección Contacto
     Como potencial usuario
     quiero acceder a una página de contacto
     para poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.	

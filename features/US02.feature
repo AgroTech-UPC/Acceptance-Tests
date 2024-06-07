@@ -1,4 +1,4 @@
-Feature: US02 Información de un asesor
+Feature: US02 Visualización de información de un asesor
     Como criador de cuyes 
     quiero ver la información de un asesor 
     para tomar una decisión informada antes de separar una cita

@@ -1,4 +1,4 @@
-Feature: US26 Visualización de la sección Características
+Feature: US26 Visualización de sección Características
     Como potencial usuario
     quiero acceder a una página sobre las características
     para conocer las principales funcionalidades de la aplicación.

@@ -1,4 +1,4 @@
-Feature: US08 Calificación al asesor luego de una asesoría
+Feature: US08 Calificación al asesor luego de una cita
     Como criador de cuyes
     quiero calificar al asesor luego de una consulta
     para ayudar a otros criadores a tomar una decisión informada antes de separar una cita  
