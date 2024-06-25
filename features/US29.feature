@@ -1,14 +1,14 @@
-Feature: US29 Uso de un API para videollamadas
+Feature: US29 Uso de un API para alojar imágenes
     Como desarrollador 
-    quiero integrar la creación de videollamadas utilizando la API de Google Meet 
-    para facilitar las asesorías en la aplicación
+    quiero integrar la API de almacenamiento de Firebase 
+    para que los usuarios puedan subir y visualizar sus imágenes de foto de perfil y publicaciones.
 
-Scenario: Creación de videollamada
-    Given el <usuario> tiene una asesoría pendiente
-    When seleccione la opción de ingresar a la <asesoría>
-    Then el sistema genera el <enlace> a una videollamada de Google Meet para que el usuario acceda a su asesoría
+Scenario: Subir imágenes
+    Given el <usuario> desea subir una <imagen> en nuestra plataforma
+    When se reciba la <imagen> en el formato compatible
+    Then el sistema sube la <imagen> usando la API del almacenamiento de Firebase para generar el <enlace> de visualización
 
 Examples:
-| usuario | asesoría  | enlace                          |
-| Pablo   | asesoria1 | https://meet.google.com/abc-123 |
-| Maria   | asesoria2 | https://meet.google.com/def-456 |
+| usuario | imagen  | enlace                                              |
+| Pablo   | imagen1 | https://firebasestorage.googleapis.com/v0/b/imagen1 |
+| Ana     | imagen2 | https://firebasestorage.googleapis.com/v0/b/imagen2 |
